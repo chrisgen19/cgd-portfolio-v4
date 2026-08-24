@@ -2,6 +2,8 @@
 
 A warm, editorial-style personal portfolio for showcasing web development services, selected work, experience, and contact details. The visual direction combines a paper-inspired bookkeeping aesthetic with a modern, responsive interface.
 
+![Full-page preview of the Chris Gen portfolio](./screenshot/cgd-fullpage-check.png)
+
 ## Highlights
 
 - Bespoke illustrated receipt-stack hero
@@ -49,6 +51,8 @@ The optimized production files are written to `dist/`.
 .
 ├── assets/
 │   └── receipt-stack.webp
+├── screenshot/
+│   └── cgd-fullpage-check.png
 ├── src/
 │   ├── main.js
 │   └── styles.css
