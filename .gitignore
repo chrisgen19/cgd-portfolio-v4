@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Optimized WebP is used by the site; retain the generated source locally.
+assets/receipt-stack.png
